@@ -1,3 +1,1 @@
 # Another text here...
-
-01.01.01
